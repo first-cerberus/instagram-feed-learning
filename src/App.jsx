@@ -14,6 +14,7 @@ function App() {
       <StoryCarousel />
       <FeedPost />
       <img src='src/assets/instagram.png' className='pt-1000'></img>
+      edited
     </>
   )
 }
